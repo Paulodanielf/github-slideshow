@@ -1,6 +1,6 @@
 ---
 layout: slidet
-title: "Welcome to our second slide!"
+title: "algo nuevo"
 ---
 Your text
 Use the left arrow to go back!
